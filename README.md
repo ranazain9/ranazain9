@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana%20Zain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-zain-694723254)
 [![GitHub](https://img.shields.io/badge/GitHub-ranazain9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranazain9)
-[![Email](https://img.shields.io/badge/Email-dildarrana555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dildarrana555@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dildarrana555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.zain20041@gmail.com)
 [![CGPA](https://img.shields.io/badge/CGPA-3.75%2F4.0-success?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://superior.edu.pk)
 
 </div>
