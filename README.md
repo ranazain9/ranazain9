@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana%20Zain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-zain)
-[![GitHub](https://img.shields.io/badge/GitHub-r.zain20041-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-r.zain20041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.zain20041@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana%20Zain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-zain-694723254)
+[![GitHub](https://img.shields.io/badge/GitHub-ranazain9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranazain9)
+[![Email](https://img.shields.io/badge/Email-dildarrana555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dildarrana555@gmail.com)
 [![CGPA](https://img.shields.io/badge/CGPA-3.75%2F4.0-success?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://superior.edu.pk)
 
 </div>
@@ -119,12 +119,12 @@ class RanaZainWaseem:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranazain9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranazain9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ranazain9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -151,7 +151,7 @@ Harvard CS50 Puzzle Day (10/10 puzzles)                ████████�
 
 <br/>
 
-📬 Reach me at **r.zain20041@gmail.com** · 📞 **0323-0415514**
+📬 **dildarrana555@gmail.com** · 📞 **0323-0415514** · 🌐 **[Portfolio](https://ranazain9.github.io/portfolio-/)**
 
 <br/>
 
