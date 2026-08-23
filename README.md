@@ -1,16 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rana%20Zain%20Waseem&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%7C%20ML%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20RAG%20Specialist&descAlignY=58&descSize=18" alt="Header Banner" />
-
-<!-- Typing Animation -->
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Agentic+AI+%26+Multi-Agent+Systems;🔗+Production+RAG+%26+Vector+Search;🚀+Hackathon+Finalist+%40+LabLab.AI;💡+Transforming+Data+into+Autonomous+AI)](https://github.com/ranazain9)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Rana%20Zain%20Waseem&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%7C%20ML%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20RAG%20Specialist&descAlignY=58&descSize=18" alt="Rana Zain Waseem Banner" />
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Typing SVG Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Agentic+AI+%26+Multi-Agent+Systems;🔗+Production+RAG+%26+Vector+Search;🚀+Hackathon+Finalist+%40+LabLab.AI;💡+Transforming+Complex+Data+into+Intelligence)](https://github.com/ranazain9)
+
+<br/>
+
+<!-- Profile View Counter & Social Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=ranazain9&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS)](https://github.com/ranazain9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-zain-694723254)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranazain9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ranazain9.github.io/portfolio-/)
@@ -31,7 +32,7 @@ class RanaZainWaseem:
         self.education   = "BS Computer Science (2023–2027)"
         self.institution = "The Superior University, Lahore"
         self.cgpa        = 3.75
-        self.status      = "Open to AI/ML Roles & Research Collaborations"
+        self.status      = "Open to AI/ML Opportunities & Research Collaborations"
 
     @property
     def core_domains(self):
@@ -43,8 +44,8 @@ class RanaZainWaseem:
         }
 
     @property
-    def mission_statement(self):
-        return "Architecting intelligent, production-ready AI systems that solve real-world problems 🚀"
+    def superpower(self):
+        return "Shipping production-ready, autonomous AI products with high velocity ⚡"
 ```
 
 ---
@@ -64,7 +65,7 @@ class RanaZainWaseem:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🗄️ Vector Stores & Data Engines
+### 🗄️ Vector Stores & Data Science
 
 ![FAISS](https://img.shields.io/badge/FAISS-009EE0?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge&logo=firebase&logoColor=white)
@@ -99,8 +100,8 @@ class RanaZainWaseem:
 
 | Project | Tech Stack | Highlights | Links |
 |:--------|:-----------|:-----------|:-----:|
-| 🥇 **AI-Powered Knowledge Navigator** | `CrewAI` `GPT-4o` `Streamlit` `RAG` | Multi-agent research engine orchestrating autonomous research across GitHub, Arxiv, Kaggle & StackOverflow | [Repo](https://github.com/ranazain9) |
-| 🤖 **Anti-Short Video Addiction Assistant** | `Agentic AI` `RL` `NLP` `FastAPI` | Hackathon-built empathetic assistant analyzing consumption patterns & delivering mental health interventions | [Repo](https://github.com/ranazain9) |
+| 🥇 **AI-Powered Knowledge Navigator** | `CrewAI` `GPT-4o` `Streamlit` `RAG` | Multi-agent research engine orchestrating autonomous search across GitHub, Arxiv, Kaggle & StackOverflow in real-time | [Repo](https://github.com/ranazain9) |
+| 🤖 **Anti-Short Video Addiction Assistant** | `Agentic AI` `RL` `NLP` `FastAPI` | LabLab.AI hackathon project — behavioral analysis and empathetic, non-intrusive mental health interventions | [Repo](https://github.com/ranazain9) |
 | 🩸 **Blood Group Detection with YOLOv8** | `YOLOv8` `Deep Learning` `OpenCV` | End-to-end computer vision pipeline for automated microscopic blood smear image classification | [Repo](https://github.com/ranazain9) |
 | 🎬 **YouTube Semantic RAG Intelligence** | `LangChain` `FAISS` `HuggingFace` | Interactive conversational system parsing video transcripts with semantic search and citation-backed Q&A | [Repo](https://github.com/ranazain9) |
 
@@ -143,12 +144,29 @@ Certifications:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranazain9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranazain9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- GitHub Activity Cards (Tokyo Night) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranazain9&theme=tokyonight" alt="GitHub Profile Summary" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranazain9&theme=tokyonight" alt="Most Used Languages" width="48%" />
 
 <br/><br/>
 
+<!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=ranazain9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranazain9&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+
+</div>
+
+---
+
+## 💡 Daily Inspiration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
